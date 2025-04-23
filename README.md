@@ -51,9 +51,7 @@ To evaluate and visualize the carbon footprint of different agricultural sectors
 
     
 ## Data Visualization 
-![Table](https://github.com/Ola-ykay/Supply_Chain/blob/main/Table-supply_chain.png)
 
-![Dashboard](https://github.com/Ola-ykay/Supply_Chain/blob/main/Dashboard-supplyChain.png)
 
 
 
