@@ -7,7 +7,6 @@
 - [Tools Used](#tools-used) 
 - [KPIs](#kpis)  
 - [Insights](#insights)
-- [Summary](#summary)
 - [Data Visualization](#data-visualization)
 
 ## Project Overview
@@ -43,12 +42,6 @@ To evaluate and visualize the carbon footprint of different agricultural sectors
 
  Slicers:
  - 2017 NAICS Code
-
- ## Summary
-
-
-
-
     
 ## Data Visualization 
 ![Table](https://github.com/Ola-ykay/Supply-Chain-Greenhouse/blob/main/GHG-table.png)
