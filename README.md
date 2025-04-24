@@ -10,17 +10,15 @@
 - [Data Visualization](#data-visualization)
 
 ## Project Overview
-This project provides a comprehensive analysis of greenhouse gas (GHG) emissions across various agricultural sectors using supply chain emission data measured in kg CO₂e per 2021 USD. The dataset breaks down emissions into direct emissions (without margins) and indirect supply chain emissions (margins), enabling a clearer understanding of carbon intensity at every stage of economic activity in agriculture.
+This project provides a comprehensive analysis of greenhouse gas (GHG) emissions across various industries using supply chain emission data measured in kg CO₂e per 2021 USD. The dataset breaks down emissions into direct emissions (without margins) and indirect supply chain emissions (margins), enabling a clearer understanding of carbon intensity at every stage of economic activity across different industries
 
 ## Goal
-To evaluate and visualize the carbon footprint of different agricultural sectors and identify opportunities to enhance sustainability and emission efficiency across the supply chain.
+To evaluate and visualize the carbon footprint of different industries and identify opportunities to enhance sustainability and emission efficiency across the supply chain.
 
 ## Objectives
-- Analyze the **GHG intensity** of various crop farming sectors.
+- Analyze the **GHG intensity** of various industries.
 - Distinguish between direct and indirect emissions.
-- Identify high-emission agricultural activities per dollar spent.
-- Create visual insights for data-driven policy and investment decisions.
-- Recommend strategies for low-carbon transformation in agriculture.
+- Identify high-emission activities per dollar spent.
 
 ## Tools Used
  - Microsoft Excel
