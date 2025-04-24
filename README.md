@@ -51,9 +51,9 @@ To evaluate and visualize the carbon footprint of different agricultural sectors
 
     
 ## Data Visualization 
-![Table]()
+![Table](https://github.com/Ola-ykay/Supply-Chain-Greenhouse/blob/main/GHG-table.png)
 
-![Analysis]()
+![Analysis](https://github.com/Ola-ykay/Supply-Chain-Greenhouse/blob/main/GHG-analysis.png)
 
 ![Dashboard](https://github.com/Ola-ykay/Supply-Chain-Greenhouse/blob/main/dashboard-greenhouse.png)
 
